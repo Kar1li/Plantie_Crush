@@ -82,10 +82,11 @@ Therefore, '06' and '16' will be an invalid input as holes cannot be moved.
 To more effectively kill zombies, you can use elements.
 Here are the elements:
 
-# -> fire         (red)
+\# -> fire         (red)
 = -> light        (orange)
 ~ -> wind         (green)
 ! -> electricity  (purple)
+
 
 To represent the different elements on the different emoticons, the corresponding colours will be attached to the emoticons.
 (We cannot show you this on readme.txt, you would have to try it out yourself)
