@@ -81,6 +81,7 @@ Therefore, '06' and '16' will be an invalid input as holes cannot be moved.
 
 To more effectively kill zombies, you can use elements.
 Here are the elements:
+
 # -> fire         (red)
 = -> light        (orange)
 ~ -> wind         (green)
